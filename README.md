@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on [Expense Tracker](https://github.com/himanshi1810/expense_tracker)
+- 🔭 I’m currently doing an Internship and performing different practicals
 
 - 📫 How to reach me **hgandhi1810@gmail.com**
 
