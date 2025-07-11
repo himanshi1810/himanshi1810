@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gandhi Himanshi</h1>
-<h3 align="center">I'm exploring myself in MERN stack web development as Full stack developer. And also started my new journey in dot net development.</h3>
-
+<h3 align="center">
+  Dedicated to mastering .NET development and backend engineering, with a background in MERN stack full stack development.
+</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
